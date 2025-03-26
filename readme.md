@@ -21,7 +21,7 @@ This project is a Django-based Task Management API that allows users to create t
 
 ### **Step 1: Clone the Repository**
 ```powershell
-git clone <repository_url>
+git clone https://github.com/ankitkochar/task_manager.git
 cd task_manager
 ```
 
